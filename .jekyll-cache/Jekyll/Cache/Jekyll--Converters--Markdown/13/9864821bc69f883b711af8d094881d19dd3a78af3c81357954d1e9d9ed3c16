@@ -1,0 +1,32 @@
+I"�<content_tag id="/example/2017/12/04/plantuml-example.html" />
+
+<content_tag id="/example/2017/12/04/plantuml-example.html" />
+
+<content_tag id="/example/2017/12/04/plantuml-example.html" />
+
+<h2 id="my-first-plantuml">My First PlantUML</h2>
+
+<h3 id="plantuml-block-1">PlantUML Block-1</h3>
+<p>&lt;img src=”data:image/png;base64, -e “@startuml
+“&gt;</p>
+
+<h3 id="plantuml-block-2">PlantUML Block-2</h3>
+<p>&lt;img src=”data:image/png;base64, -e “@startuml!
+“&gt;</p>
+
+<h3 id="plantuml-block-3">PlantUML Block-3</h3>
+<p>&lt;img src=”data:image/png;base64, -e “@startuml
+“&gt;</p>
+
+<h3 id="plantuml-block-4">PlantUML Block-4</h3>
+
+<p>&lt;img src=”data:image/png;base64, -e “@startuml
+“&gt;</p>
+
+<content_tag id="/example/2017/12/04/plantuml-example.html" />
+
+<content_tag id="/example/2017/12/04/plantuml-example.html" />
+
+<content_tag id="/example/2017/12/04/plantuml-example.html" />
+
+:ET
